@@ -7,6 +7,9 @@
      <a href = "https://dribbble.com/Rhino_business">
        <img src = "https://img.shields.io/badge/Dribbble-skyblue?style=for-the-badge&logo=dribbble&logoColor=hotpink"/>
      </a>
+     <a href = "https://rhino-business.slack.com/">
+       <img src = "https://img.shields.io/badge/Slack-skyblue?style=for-the-badge&logo=slack&logoColor=yellow"/>
+     </a>
  </div>
  <div class = "stack">
    <h3>Languages and Tools</h3>

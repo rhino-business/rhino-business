@@ -4,10 +4,10 @@
 </div>
  <div id = "badges">
    <h3>Get in touch</h3>
-     <a href = "https://dribbble.com/Rhino_business">
+     <a href = "https://dribbble.com/Rhino_business" target = "blank">
        <img src = "https://img.shields.io/badge/Dribbble-skyblue?style=for-the-badge&logo=dribbble&logoColor=hotpink"/>
      </a>
-     <a href = "https://rhino-business.slack.com/">
+     <a href = "https://rhino-business.slack.com/" target = "blank">
        <img src = "https://img.shields.io/badge/Slack-skyblue?style=for-the-badge&logo=slack&logoColor=hotpink"/>
      </a>
  </div>

@@ -4,7 +4,7 @@
 </div>
  <div id = "badges">
    <h3>Get in touch</h3>
-     <a href = "https://dribbble.com/Rhino_business">
+     <a href = "https://dribbble.com/Rhino_business/">
        <img src = "https://img.shields.io/badge/Dribbble-skyblue?style=for-the-badge&logo=dribbble&logoColor=hotpink"/>
      </a>
      <a href = "https://rhino-business.slack.com/">
